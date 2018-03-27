@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Web o knihách pro děti</title>
-    <link>http://jan-martinek.github.io/hugo-start/</link>
+    <link>https://406665.github.io/Web-o-knihach-pro-deti/</link>
     <description>Recent content in Home on Web o knihách pro děti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Mar 2018 14:57:19 +0200</lastBuildDate>
     
-	<atom:link href="http://jan-martinek.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://406665.github.io/Web-o-knihach-pro-deti/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Členové týmu:</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/clenove/</link>
+      <pubDate>Tue, 27 Mar 2018 14:57:19 +0200</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/clenove/</guid>
+      <description>Marie Melská
+Martina Hradilová
+Marija Šupicová</description>
+    </item>
+    
+    <item>
+      <title>Ctenarstvi</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/ctenarstvi/</link>
+      <pubDate>Mon, 26 Mar 2018 21:53:09 +0200</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/ctenarstvi/</guid>
+      <description>O výzkumu čtenářů a čtenářství  V roce 2013 proběhl pod garancí Knihovnického institutu Národní knihovny ČR první reprezentativní výzkum dětského čtenářství v České republice. Finance poskytlo Ministerstvo kultury ČR a realizaci samotného výzkumu provedla agentura Mediaresearch. Na přípravě výzkumu se podíleli odborníci z akademických institucí (Univerzita Karlova, Slezská univerzita, Akademie věd ČR). Jelikož byl výzkum první tohoto typu u nás, hledali jsme inspiraci u podobných výzkumů dětského čtenářství tuzemských i zahraničních.</description>
+    </item>
+    
+    <item>
       <title>All albums of The Beatles</title>
-      <link>http://jan-martinek.github.io/hugo-start/post/another-post/</link>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/another-post/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://jan-martinek.github.io/hugo-start/post/another-post/</guid>
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/another-post/</guid>
       <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,20 +44,20 @@
     
     <item>
       <title>Welcome to Hugo!</title>
-      <link>http://jan-martinek.github.io/hugo-start/post/welcome-to-hugo/</link>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/welcome-to-hugo/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://jan-martinek.github.io/hugo-start/post/welcome-to-hugo/</guid>
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/welcome-to-hugo/</guid>
       <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://jan-martinek.github.io/hugo-start/about/</link>
+      <title>O nás</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jan-martinek.github.io/hugo-start/about/</guid>
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/about/</guid>
       <description>This is a minimal Hugo website created for a course VIKBA07.
 Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
     </item>
