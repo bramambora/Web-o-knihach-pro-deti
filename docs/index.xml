@@ -17,13 +17,11 @@
       <pubDate>Tue, 27 Mar 2018 14:57:19 +0200</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/clenove/</guid>
-      <description>Marie Melská
-Martina Hradilová
-Marija Šupicová</description>
+      <description>Marie Melská, Martina Hradilová, Marija Šupicová</description>
     </item>
     
     <item>
-      <title>Ctenarstvi</title>
+      <title>Čtenářství</title>
       <link>https://406665.github.io/Web-o-knihach-pro-deti/post/ctenarstvi/</link>
       <pubDate>Mon, 26 Mar 2018 21:53:09 +0200</pubDate>
       
@@ -53,7 +51,7 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
-      <title>O nás</title>
+      <title>O projektu</title>
       <link>https://406665.github.io/Web-o-knihach-pro-deti/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
