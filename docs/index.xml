@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Web o knihách pro děti</title>
+    <title>Home on CO ČÍST?</title>
     <link>https://406665.github.io/Web-o-knihach-pro-deti/</link>
-    <description>Recent content in Home on Web o knihách pro děti</description>
+    <description>Recent content in Home on CO ČÍST?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Tue, 27 Mar 2018 14:57:19 +0200</lastBuildDate>
@@ -17,7 +17,12 @@
       <pubDate>Tue, 27 Mar 2018 14:57:19 +0200</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/clenove/</guid>
-      <description>Marie Melská, Martina Hradilová, Marija Šupicová</description>
+      <description>Marie Melská
+ Toto téma je mi blízké vzhledem k mé profesní zaměřenosti. Pracuji v knihovně v oddělení pro děti, proto s dětskými knihami mám zkušenost.
+ Martina Hradilová
+ NĚCO
+ Marija Šupicová
+ Jsem téměř naprostý IT negramot. Projekt mě zaujal, neboť téma čtenářské gramotnosti budu za pár let řešit u svých dvou dětí. Jsem ráda, že mě do týmu přijaly a stala jsem se tak třetím M.</description>
     </item>
     
     <item>
@@ -56,8 +61,9 @@ To add new posts, simply add a file in the content/post directory that follows t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
+      <description>Cílová skupina:
+ Děti ZŠ a MŠ Jejich rodiče  Cíl:
+ Web bude informovat o rozdílech mezi čtenářstvím a čtenářskou gramotností. A dále má pomoci dětem a jejich rodičům s výběrem knih a ke knihám předložit také otázky, aby si čtenáři nebo jejich rodiče mohli ověřit, zda rozumí textu a vědí, o čem čtou. Proto by web měl obsahovat nabídku knih podle určité věkové kategorie.  Název webu:</description>
     </item>
     
   </channel>
