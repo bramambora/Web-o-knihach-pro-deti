@@ -4,13 +4,5 @@ date: 2018-03-27T14:57:19+02:00
 draft: false
 ---
 
-* Marie Melská
-
-* Toto téma je mi blízké vzhledem k mé profesní zaměřenosti. Pracuji v knihovně v oddělení pro děti, proto s dětskými knihami mám zkušenost.
-
-* Martina Hradilová 
-* NĚCO
-
-* Marija Šupicová
-* Jsem téměř naprostý IT negramot. Projekt mě zaujal, neboť téma čtenářské gramotnosti budu za pár let řešit u svých dvou dětí. Jsem ráda, že mě do týmu přijaly a stala jsem se tak třetím M.*
-
+Na tomto projektu pracuje Marie Melská, Martina Hradilová a Marija Šupicová. Naše motivace jsou různé. Ale všechny máme blízký vztah k dětem, a to buď přímo v rodině nebo v práci. Proto si uvědomujeme, jak je důležité vybírat správné knížky pro děti, aby jim děti měli možnost porozumnět. A především ty menší by měly dostat zpětnou vazbu od rodičů, aby bylo jasné, že příběhu rozumí a ví, o čem to bylo.
+	

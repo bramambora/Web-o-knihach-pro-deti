@@ -17,12 +17,7 @@
       <pubDate>Tue, 27 Mar 2018 14:57:19 +0200</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/clenove/</guid>
-      <description>Marie Melská
- Toto téma je mi blízké vzhledem k mé profesní zaměřenosti. Pracuji v knihovně v oddělení pro děti, proto s dětskými knihami mám zkušenost.
- Martina Hradilová
- NĚCO
- Marija Šupicová
- Jsem téměř naprostý IT negramot. Projekt mě zaujal, neboť téma čtenářské gramotnosti budu za pár let řešit u svých dvou dětí. Jsem ráda, že mě do týmu přijaly a stala jsem se tak třetím M.</description>
+      <description>Na tomto projektu pracuje Marie Melská, Martina Hradilová a Marija Šupicová. Naše motivace jsou různé. Ale všechny máme blízký vztah k dětem, a to buď přímo v rodině nebo v práci. Proto si uvědomujeme, jak je důležité vybírat správné knížky pro děti, aby jim děti měli možnost porozumnět. A především ty menší by měly dostat zpětnou vazbu od rodičů, aby bylo jasné, že příběhu rozumí a ví, o čem to bylo.</description>
     </item>
     
     <item>
@@ -61,9 +56,11 @@ To add new posts, simply add a file in the content/post directory that follows t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/about/</guid>
-      <description>Cílová skupina:
- Děti ZŠ a MŠ Jejich rodiče  Cíl:
- Web bude informovat o rozdílech mezi čtenářstvím a čtenářskou gramotností. A dále má pomoci dětem a jejich rodičům s výběrem knih a ke knihám předložit také otázky, aby si čtenáři nebo jejich rodiče mohli ověřit, zda rozumí textu a vědí, o čem čtou. Proto by web měl obsahovat nabídku knih podle určité věkové kategorie.  Název webu:</description>
+      <description>This is a minimal Hugo website created for a course VIKBA07.
+Learn more about Hugo with a quick start guide or by exploring its documentation.
+ CÍLOVÁ SKUPINA:
+ Děti ZŠ a MŠ Jejich rodiče  CÍL:
+ Web bude informovat o rozdílech mezi čtenářstvím a čtenářskou gramotností. A dále má pomoci dětem a jejich rodičům s výběrem knih a ke knihám předložit také otázky, aby si čtenáři nebo jejich rodiče mohli ověřit, zda rozumí textu a vědí, o čem čtou.</description>
     </item>
     
   </channel>
