@@ -1,5 +1,5 @@
 .wrapper {
-  margin: 30px auto;
+  margin: 10px auto;
   max-width: 800px;
   padding: 20px;
 }
@@ -18,7 +18,7 @@ footer {
   float: right;
   width: 70%;
   border-left: solid;
-  padding-left: 1.5em;
+  padding-left: 1.0em;
   padding-bottom: 2em;
   min-height: 400px;
 }
